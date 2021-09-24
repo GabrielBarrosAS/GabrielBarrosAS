@@ -46,8 +46,9 @@
   ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarrosAS&theme=dark)
-![Resume](https://github-readme-stats.vercel.app/api?username=GabrielBarrosAS&show_icons=true&theme=dark)
+![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarrosAS&theme=dark&layout=compact)
+![Resume](https://github-readme-stats.vercel.app/api?username=GabrielBarrosAS&show_icons=true&theme=dark&include_all_commits=false&count_private=false)
+
 
 
 
