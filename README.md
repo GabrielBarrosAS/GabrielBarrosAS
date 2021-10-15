@@ -45,15 +45,3 @@
   
   ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarrosAS&theme=dark&layout=compact)
-![Resume](https://github-readme-stats.vercel.app/api?username=GabrielBarrosAS&show_icons=true&theme=dark&include_all_commits=false&count_private=false)
-
-
-
-
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-barros-arag%C3%A3o-silva-9b98001b3/)](https://www.linkedin.com/in/gabriel-barros-arag%C3%A3o-silva-9b98001b3/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
